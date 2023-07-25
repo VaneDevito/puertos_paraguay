@@ -3,7 +3,7 @@
 A continuacion, se presenta el mapa con la localización de los puertos de Paraguay (el presente repositorio contiene el archivo html para la descarga y visualización del mismo), creado mediante la libreria Folium (permite manipular los datos en Python y visualizar los resultados en Leaflet (ibrería JavaScript que nos permite publicar mapas en la web).
 Para ejecutar el mismo, se empleo Google Colab (producto similar a Jupyter Notebook de Google Research). Los usurios pueden usar este cuaderno para escribir y ejecutar códigos aleatorios de programas de Python simplemente usando un navegador web.
 
-Ejemplo: archivo csv vinculado temporalmente. Sintaxis:
+Ejemplo: archivo csv vinculado temporalmente en colab. Sintaxis:
 
 #Los archivos con datos pueden cargarse de forma temporal en la sesión de colab, para ello despliegue el icono de carpeta en el borde izquierdo de la pantalla y cargue el csv de interés.
 
